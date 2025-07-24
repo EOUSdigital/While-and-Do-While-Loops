@@ -423,7 +423,7 @@ do {
 } while (abc > 0);
 ```
 
-🧠 It runs once before checking, and stops when abc becomes 0 — exactly how a `do...while` is meant to behave.
+🧠 It runs once before checking and stops when abc becomes 0 — exactly how a `do...while` is meant to behave.
 
 ---
 
@@ -517,6 +517,8 @@ do {
 console.log("You entered an even number.");
 ```
 
+---
+
 ## 🧩 Step 6: Project Integration
 
 🎯 Goal: Apply while and do...while loops in a mini project of your choice.
@@ -526,7 +528,7 @@ console.log("You entered an even number.");
 
 ### 🧠 Flashcard App – While Loop Edition
 
-🎯 Goal: Practice using while and do...while to review flashcards one-by-one.
+🎯 Goal: Practice using while and do...while to review flashcards one by one.
 
 ✅ Project Logic Overview
 ##### Simulate a flashcard review session that:
@@ -537,7 +539,7 @@ console.log("You entered an even number.");
 
 💡 Example Behavior:
 - Start at the first card.
-- Show question unless it is skipped.
+- Show the question unless it is skipped.
 - Stop completely if "mastered" is encountered.
 
 ### 🔁 Pseudocode prompt:
@@ -640,7 +642,7 @@ if (f === flashcards.length) {
 ##### Please answer the following prompts in your own words:
 
 1. What’s one thing about `while` or `do...while` loops that finally makes sense to you now?
-#### ☑️ Answer: I can use a `while` loop to check if the input value matches the recorded value. If the input does not match the recorded value, the user must reenter a value. Once the input matches, exit the loop. I can use a `do...while` loop to check if a value meets a condition, executing the loop body at least once before checking the condition each time. This is useful when I want to perform an action first, then continue looping only if the condition is true.
+#### ☑️ Answer: I can use a `while` loop to check if the input value matches the recorded value. If the input does not match the recorded value, the user must reenter a value. Once the input matches, exit the loop. I can use a `do...while` loop to check if a value meets a condition, executing the loop body at least once before checking the condition each time. This is useful when I want to act first, then continue looping only if the condition is true.
 
 2. What part of these loops still feels unclear or deserves more practice?
 #### ☑️ Answer: As a whole, I struggle to build a more advanced piece of code where I can include a `while` loop and a `do...while` loop.
