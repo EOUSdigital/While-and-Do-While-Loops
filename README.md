@@ -641,8 +641,8 @@ if (f === flashcards.length) {
 🎯 Goal: Reflect on your learning and identify areas for growth
 ##### Please answer the following prompts in your own words:
 
-1. What’s one thing about `while` or `do...while` loops that finally makes sense to you now?
-#### ☑️ Answer: I can use a `while` loop to check if the input value matches the recorded value. If the input does not match the recorded value, the user must reenter a value. Once the input matches, exit the loop. I can use a `do...while` loop to check if a value meets a condition, executing the loop body at least once before checking the condition each time. This is useful when I want to act first, then continue looping only if the condition is true.
+#### 1. What’s one thing about `while` or `do...while` loops that finally makes sense to you now?
+☑️ Answer: I can use a `while` loop to check if the input value matches the recorded value. If the input does not match the recorded value, the user must reenter a value. Once the input matches, exit the loop. I can use a `do...while` loop to check if a value meets a condition, executing the loop body at least once before checking the condition each time. This is useful when I want to act first, then continue looping only if the condition is true.
 
 2. What part of these loops still feels unclear or deserves more practice?
 #### ☑️ Answer: As a whole, I struggle to build a more advanced piece of code where I can include a `while` loop and a `do...while` loop.
