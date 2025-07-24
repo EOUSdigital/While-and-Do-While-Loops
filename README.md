@@ -659,5 +659,4 @@ if (f === flashcards.length) {
 - Work through problems where the condition depends on user choice or repeated actions.
 
 #### 3. If someone asked you to explain the difference between `while` and `do...while`, how would you describe it without using code?
-(Try using an analogy like making tea, checking mail, or walking into a store.)
 ☑️ Answer: A `while` loop checks the condition before running the code block. The `while` loop is pre-check — it might not run at all if the condition is false initially. A `do...while` loop, on the other hand, runs the code block first, then checks the condition afterward. The `do...while` loop is post-check — it always runs once before checking whether to continue. This difference makes them suitable for different scenarios, depending on whether I want the loop body to execute at least one time or not.
