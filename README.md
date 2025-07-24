@@ -30,6 +30,8 @@ do {
 } while (condition);
 ```
 
+---
+
 ### 🧠 Key Differences
 
 | Feature                      | while                        | do...while                      |
